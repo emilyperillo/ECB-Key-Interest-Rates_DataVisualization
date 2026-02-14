@@ -1,4 +1,4 @@
-<img width="910" height="546" alt="image" src="https://github.com/user-attachments/assets/52ca0bfa-887c-40f4-9f6e-92b245e715a9" />![cover_desktop_calling-time-on-the-european-central-bank]
+<img width="910" height="546" alt="image" src="https://github.com/user-attachments/assets/52ca0bfa-887c-40f4-9f6e-92b245e715a9" />
 
 # ECB Key Interest Rates Analysis 📉
 ### From Negative Interest Rates to All-Time Highs (1999 - 2025)
